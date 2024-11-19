@@ -15,4 +15,5 @@ Bu, araç kiralama platformunu simüle eden bir React uygulamasıdır. Kullanıc
 
 Aşağıdaki GIF projenin nasıl çalıştığını ve kullanıcı etkileşimlerini göstermektedir:
 
-![Car Rental Demo](file:///Users/burak/Downloads/ezgif.com-video-speed.mp4)
+![][ezgif.com-video-speed.mp4]# Car Rental
+
